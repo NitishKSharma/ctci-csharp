@@ -1,0 +1,11 @@
+C:\Develop\data-structure\ctci-csharp\bin\Debug\netcoreapp3.1\ctci-csharp.exe
+C:\Develop\data-structure\ctci-csharp\bin\Debug\netcoreapp3.1\ctci-csharp.deps.json
+C:\Develop\data-structure\ctci-csharp\bin\Debug\netcoreapp3.1\ctci-csharp.runtimeconfig.json
+C:\Develop\data-structure\ctci-csharp\bin\Debug\netcoreapp3.1\ctci-csharp.runtimeconfig.dev.json
+C:\Develop\data-structure\ctci-csharp\bin\Debug\netcoreapp3.1\ctci-csharp.dll
+C:\Develop\data-structure\ctci-csharp\bin\Debug\netcoreapp3.1\ctci-csharp.pdb
+C:\Develop\data-structure\ctci-csharp\obj\Debug\netcoreapp3.1\ctci-csharp.csprojAssemblyReference.cache
+C:\Develop\data-structure\ctci-csharp\obj\Debug\netcoreapp3.1\ctci-csharp.AssemblyInfoInputs.cache
+C:\Develop\data-structure\ctci-csharp\obj\Debug\netcoreapp3.1\ctci-csharp.AssemblyInfo.cs
+C:\Develop\data-structure\ctci-csharp\obj\Debug\netcoreapp3.1\ctci-csharp.dll
+C:\Develop\data-structure\ctci-csharp\obj\Debug\netcoreapp3.1\ctci-csharp.pdb
