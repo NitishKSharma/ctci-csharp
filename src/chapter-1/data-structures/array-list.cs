@@ -13,6 +13,7 @@ namespace ctci_csharp
     public class AList<T> : IAList<T>
     {
         private T[] _collection;
+        private int _lastValueAt = 0;
 
         private int _size;
         public int Size
@@ -20,8 +21,6 @@ namespace ctci_csharp
             get { return _size; }
             set { _size = value; }
         }
-
-        private int _lastValueAt = 0;
 
 
         public AList()
@@ -36,11 +35,13 @@ namespace ctci_csharp
                 this.DoubleArraySize();
 
             this._collection[this._lastValueAt] = item;
+            // FIXME: lastvalue at is wrong first value is at 0 not 1
             this._lastValueAt += 1;
         }
 
         public void RemoveAt(int index)
         {
+            // FIXME: check against lastValueAt
             if (index > this._size - 1)
                 throw new IndexOutOfRangeException();
 
