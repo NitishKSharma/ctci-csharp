@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Develop\\data-structure\\ctci-csharp\\ctci-csharp.csproj": {}
+    "c:\\Develop\\data-structure\\ctci-csharp\\ctci-csharp.csproj": {}
   },
   "projects": {
-    "C:\\Develop\\data-structure\\ctci-csharp\\ctci-csharp.csproj": {
+    "c:\\Develop\\data-structure\\ctci-csharp\\ctci-csharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Develop\\data-structure\\ctci-csharp\\ctci-csharp.csproj",
+        "projectUniqueName": "c:\\Develop\\data-structure\\ctci-csharp\\ctci-csharp.csproj",
         "projectName": "ctci-csharp",
-        "projectPath": "C:\\Develop\\data-structure\\ctci-csharp\\ctci-csharp.csproj",
+        "projectPath": "c:\\Develop\\data-structure\\ctci-csharp\\ctci-csharp.csproj",
         "packagesPath": "C:\\Users\\sharm\\.nuget\\packages\\",
-        "outputPath": "C:\\Develop\\data-structure\\ctci-csharp\\obj\\",
+        "outputPath": "c:\\Develop\\data-structure\\ctci-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
