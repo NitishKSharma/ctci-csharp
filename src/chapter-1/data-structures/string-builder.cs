@@ -96,3 +96,5 @@ public interface INStringBuilder
     void Remove(int startIndex, int length);
     string ToString();
 }
+
+// This is a change
